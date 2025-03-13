@@ -9,9 +9,9 @@ import time
 import numpy as np
 
 # Email configuration
-sender_email = 'udhayaudhaya2277@gmail.com'
-receiver_email = 'uforudhaya1234@gmail.com'
-password = 'tmzs wvjr gzau avqn'
+sender_email = 'specify your mail id'
+receiver_email = 'specify receiver mail id '
+password = 'your password'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 
